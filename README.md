@@ -6,11 +6,10 @@ In this challenge, I was given starter code and had to modify it to create a wor
 <br>
 
 ## Preview Video
+<br>
 
-[README GENERATOR PREVIEW VIDEO](https://watch.screencastify.com/v/l2XoVRs1EonEnYf0KwFh)
+[LINK TO README GENERATOR PREVIEW VIDEO](https://watch.screencastify.com/v/l2XoVRs1EonEnYf0KwFh)
 
 <br>
 
-## Deployed Website
-
-[Work-day Scheduler!](https://trevormcgill.github.io/Calendar-App/)
+https://user-images.githubusercontent.com/124531579/234158741-cabaa299-05d6-4685-923a-9f5d7208a6ef.mp4
