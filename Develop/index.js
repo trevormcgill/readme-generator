@@ -33,6 +33,10 @@ ${response.commandLine}
 
 ${response.usage}
 
+\`\`\`
+${response.usageCommand}
+\`\`\`
+
 ## License
 
 ${generateNotice(response.license)}
@@ -118,6 +122,21 @@ const init = async () => {
         type: 'input',
         name: 'commandLine',
         message: 'What command should I run to install dependencies?',
+      },
+      {
+        type: 'input',
+        name: 'usage',
+        message: 'Please write a short description of usage information.',
+      },
+      {
+        type: 'input',
+        name: 'usageCommand',
+        message: 'Please write any necessary usage commands.',
+      },
+      {
+        type: 'input',
+        name: 'contribution',
+        message: 'Please write your contribution guidelines.',
       },
       {
         type: 'input',
