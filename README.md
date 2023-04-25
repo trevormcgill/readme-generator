@@ -1,14 +1,16 @@
 # README Generator
 
 ## Description
-In this challenge, I was given starter code and had to modify it to create a work-day scheduler. First, I had to use dayjs() to get the current date and time. Then, I had to add a click event listener to the save button to save the user's input to localStorage when clicked. Finally, I used an if/else statement to compare the id of each time block element to the current hour and modify the classes accordingly. This allows the user to see which events were in the past, present, and future with color-coded elements that update every hour. The end result is a fully functional work-day scheduler that allows the user to enter and save their daily events.
+In this challenge, I developed a command-line application that dynamically generates a professional README.md file from user input, utilizing the Inquirer package. The application, invoked with node index.js, prompts users for information about their project, such as project name, description, installation commands, usage information, contribution guidelines, test commands, and license type.
+
+Based on the user's input, the application creates a well-structured README.md file, which includes a table of contents, installation instructions, usage information, license information, contribution guidelines, test instructions, and contact information. Helper functions generate a license badge and license notice depending on the chosen license, and the fs package is used to write the generated content to a new file, 'NEWREADME.md'. The end result is a dynamically generated, professional README.md file that effectively represents the user's project.
 
 <br>
 
 ## Preview Video
 <br>
 
-[LINK TO README GENERATOR PREVIEW VIDEO](https://watch.screencastify.com/v/l2XoVRs1EonEnYf0KwFh)
+[Link to preview video!](https://watch.screencastify.com/v/l2XoVRs1EonEnYf0KwFh)
 
 <br>
 
